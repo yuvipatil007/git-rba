@@ -1,0 +1,9 @@
+{
+	"name": "ADFGITHUBDEMO1",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "9da259b7-d2ed-4ce0-b09e-983ecc738a65",
+		"tenantId": "e77baa07-be0a-4c55-982a-6b247018c67c"
+	}
+}
